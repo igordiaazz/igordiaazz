@@ -1,6 +1,6 @@
 # >_ Yo, I'm Igor Dias
 
-### Full Stack Engineer | AI & Data Science 
+### Full Stack | AI & Data Science 
 
 B.Sc. Information Technology Student at **UFRN** (Federal University of Rio Grande do Norte).
 Focusing on the intersection of scalable software architecture and predictive modeling.
