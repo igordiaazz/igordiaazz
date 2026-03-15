@@ -13,7 +13,7 @@ I build end-to-end solutions with love, leveraging strong CS fundamentals to cre
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python` `Java` `TypeScript` `JavaScript` |
+| **Languages** | `C++` `Python` `Java` `TypeScript` `JavaScript` |
 | **Frontend** | `React` `Angular` `HTML/CSS` |
 | **Backend** | `Node.js` `Django` `FastAPI` |
 | **Data & AI** | `PyTorch` `TensorFlow` `Pandas` `Scikit-Learn` |
