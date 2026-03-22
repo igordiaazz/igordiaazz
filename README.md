@@ -23,7 +23,7 @@ I build end-to-end solutions with love, leveraging strong CS fundamentals to cre
 
 ## >_ Education
 
-**Bachelor of Information Technology (BTI) 2026 - Present**
-*Federal University of Rio Grande do Norte (UFRN)* 
-(Powered by luv, bugs and strong CS fundamentals)
+**Bachelor of Information Technology (BTI)** | 2026 - Present <br>
+*Federal University of Rio Grande do Norte (UFRN)* <br>
+*(Powered by luv, bugs and strong CS fundamentals)*
 
