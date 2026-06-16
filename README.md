@@ -16,8 +16,8 @@ I build end-to-end solutions with love, leveraging strong CS fundamentals to cre
 | **Languages** | `C++` `Python` `Java` `TypeScript` `JavaScript` |
 | **Frontend** | `React` `Angular` `HTML/CSS` |
 | **Backend** | `Node.js` `Django` `FastAPI` |
-| **Data & AI** | `PyTorch` `TensorFlow` `Pandas` `Scikit-Learn` |
-| **Data Storage** | `SQL` `SQLite` |
+| **Data & AI** | `PyTorch` `TensorFlow` `Pandas` `Scikit-Learn` `CNNs` |
+| **Data Storage** | `SQL` `SQLite` `PostgreSQL` |
 
 ---
 
