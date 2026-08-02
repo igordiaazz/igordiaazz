@@ -1,29 +1,39 @@
-# >_ Yo, I'm Igor Dias
+# Yo, I'm Igor
 
-### Full Stack | AI & Data Science 
+**Full Stack Developer | AI & Data Science Enthusiast**
 
 B.Sc. Information Technology Student at **UFRN** (Federal University of Rio Grande do Norte).
 Focusing on the intersection of scalable software architecture and predictive modeling.
 
 ---
 
-## >_ Technical Expertise
+## Technical Expertise
 
-I build end-to-end solutions with love, leveraging strong CS fundamentals to create modern web applications powered by data intelligence.
+I build end-to-end solutions leveraging strong CS fundamentals to create modern web applications powered by data intelligence.
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `C++` `Python` `Java` `TypeScript` `JavaScript` |
-| **Frontend** | `Next.Js` `React` `TailwindCSS` `HTML/CSS` |
-| **Backend** | `Node.js` `Django` `FastAPI` |
-| **Data & AI** | `PyTorch` `TensorFlow` `Pandas` `Scikit-Learn` `CNNs` |
-| **Data Storage** | `SQL` `SQLite` `PostgreSQL` |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Data & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
-## >_ Education
+## Education
 
-**Bachelor of Information Technology (BTI)** | 2026 - Present <br>
-*Federal University of Rio Grande do Norte (UFRN)* <br>
-*(Powered by luv, bugs and strong CS fundamentals)*
+**Bachelor of Information Technology (BTI)** | 2026 - Present  
+*Federal University of Rio Grande do Norte (UFRN)*
 
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igordiaazz/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/igordiaazz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:igordiasdias2104@email.com)
+
+---
+
+*Powered by passion, bugs, and strong CS fundamentals*
